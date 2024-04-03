@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/radio_button_checked.png</file>
+        <file>images/radio_button_unchecked.png</file>
+        <file>images/screen_record.png</file>
+        <file>images/screen_saver.png</file>
+        <file>images/screen_recording.png</file>
+        <file>images/screen_saver_click.png</file>
+    </qresource>
+</RCC>
